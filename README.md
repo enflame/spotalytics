@@ -4,5 +4,7 @@
 ### How to set up dev environment
 
 1. Make sure virtualenv is installed
-2. - `mkvirtualenv Spotalytics`
-   - `pip install django`
+2. - `cd env/Scripts`
+   - `activate`
+   - `cd ../..`
+   - 'py manage.py runserver'

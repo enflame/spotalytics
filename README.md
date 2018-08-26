@@ -7,4 +7,4 @@
 2. - `cd env/Scripts`
    - `activate`
    - `cd ../..`
-   - 'py manage.py runserver'
+   -`py manage.py runserver`
